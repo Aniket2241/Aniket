@@ -1,5 +1,5 @@
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHhkNjRsZnpleHUzbW80MXVxazZjcnh4cGQycHhjMGM1MWR1c3pkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" width="100%">
-# Hey, I'm Aniket!<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="50px">
+**Hey, I'm Aniket!<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="50px">**
 **MERN Stack Developer | AI Enthusiast** 
 
 I love solving real-world problems through technology and building scalable web applications.MY interest range
