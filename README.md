@@ -15,13 +15,13 @@ I love solving real-world problems through technology and building scalable web 
 
 ## 🌍 **Connect With Me**  
 <p align="left">
-  <a href="https://leetcode.com/u/aniket2241/">
+  <a href="https://leetcode.com/u/aniket2241/" style={padding:'10px'}>
     <img src="https://img.shields.io/badge/LeetCode-000000?style=flat&logo=leetcode" alt="LeetCode">
   </a>
-  <a href="https://www.linkedin.com/in/aniket-bhardwaj-672243296/">
+  <a href="https://www.linkedin.com/in/aniket-bhardwaj-672243296/" style={padding:'10px'}>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://discord.com/users/1298869312865570847">
+  <a href="https://discord.com/users/1298869312865570847" style={padding:'10px'}>
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord">
   </a>
 </p>
