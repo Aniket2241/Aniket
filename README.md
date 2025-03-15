@@ -1,4 +1,4 @@
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHhkNjRsZnpleHUzbW80MXVxazZjcnh4cGQycHhjMGM1MWR1c3pkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" width="100%" height="60%">  
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHhkNjRsZnpleHUzbW80MXVxazZjcnh4cGQycHhjMGM1MWR1c3pkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" width="100%" height="30%">  
 
 # **Hey, I'm Aniket!** <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="50px">  
 
@@ -15,14 +15,14 @@ I love solving real-world problems through technology and building scalable web 
 
 ## 🌍 **Connect With Me**  
 <p align="left">
-  <a href="https://leetcode.com/u/aniket2241/" style={padding:'10px'}>
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=flat&logo=leetcode" width="50px" alt="LeetCode">
+  <a href="https://leetcode.com/u/aniket2241/" >
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=flat&logo=leetcode" width="100px" alt="LeetCode">
   </a>
   <a href="https://www.linkedin.com/in/aniket-bhardwaj-672243296/" >
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" width="50px" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" width="100px" alt="LinkedIn">
   </a>
   <a href="https://discord.com/users/1298869312865570847">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" width="50px">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" width="100px">
   </a>
 </p>
 
